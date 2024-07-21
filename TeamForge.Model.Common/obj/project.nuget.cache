@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOBl4BhKWSK41c+VNlCQAY61l2cwyEz9aETvB2xJk8pxmW+1qMvsJmuJbtw9fT6DBlmtWVNE3ReywjoZxCTCWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ilija\\source\\repos\\TeamForge\\TeamForge.Model.Common\\TeamForge.Model.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ilija\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ilija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

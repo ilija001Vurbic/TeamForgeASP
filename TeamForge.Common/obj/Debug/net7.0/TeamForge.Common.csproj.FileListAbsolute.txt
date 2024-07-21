@@ -1,0 +1,11 @@
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\bin\Debug\net7.0\TeamForge.Common.deps.json
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\bin\Debug\net7.0\TeamForge.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\bin\Debug\net7.0\TeamForge.Common.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\obj\Debug\net7.0\TeamForge.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\obj\Debug\net7.0\TeamForge.Common.AssemblyInfoInputs.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\obj\Debug\net7.0\TeamForge.Common.AssemblyInfo.cs
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\obj\Debug\net7.0\TeamForge.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\obj\Debug\net7.0\TeamForge.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\obj\Debug\net7.0\refint\TeamForge.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\obj\Debug\net7.0\TeamForge.Common.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Common\obj\Debug\net7.0\ref\TeamForge.Common.dll

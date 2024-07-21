@@ -1,0 +1,11 @@
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\bin\Debug\net7.0\TeamForge.DAL.deps.json
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\bin\Debug\net7.0\TeamForge.DAL.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\bin\Debug\net7.0\TeamForge.DAL.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\obj\Debug\net7.0\TeamForge.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\obj\Debug\net7.0\TeamForge.DAL.AssemblyInfoInputs.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\obj\Debug\net7.0\TeamForge.DAL.AssemblyInfo.cs
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\obj\Debug\net7.0\TeamForge.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\obj\Debug\net7.0\TeamForge.DAL.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\obj\Debug\net7.0\refint\TeamForge.DAL.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\obj\Debug\net7.0\TeamForge.DAL.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.DAL\obj\Debug\net7.0\ref\TeamForge.DAL.dll

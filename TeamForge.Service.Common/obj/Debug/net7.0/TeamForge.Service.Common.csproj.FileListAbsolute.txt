@@ -1,0 +1,17 @@
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\bin\Debug\net7.0\TeamForge.Service.Common.deps.json
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\bin\Debug\net7.0\TeamForge.Service.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\bin\Debug\net7.0\TeamForge.Service.Common.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\TeamForge.Service.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\TeamForge.Service.Common.AssemblyInfoInputs.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\TeamForge.Service.Common.AssemblyInfo.cs
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\TeamForge.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\TeamForge.Service.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\refint\TeamForge.Service.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\TeamForge.Service.Common.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\ref\TeamForge.Service.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\bin\Debug\net7.0\TeamForge.Model.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\bin\Debug\net7.0\TeamForge.Model.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\bin\Debug\net7.0\TeamForge.Model.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\bin\Debug\net7.0\TeamForge.Model.Common.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\TeamForge.Service.Common.csproj.AssemblyReference.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Service.Common\obj\Debug\net7.0\TeamForge.Service.Common.csproj.CopyComplete

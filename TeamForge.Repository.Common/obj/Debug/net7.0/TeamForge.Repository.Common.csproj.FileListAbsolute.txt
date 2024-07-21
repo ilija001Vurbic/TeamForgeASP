@@ -1,0 +1,17 @@
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\bin\Debug\net7.0\TeamForge.Repository.Common.deps.json
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\bin\Debug\net7.0\TeamForge.Repository.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\bin\Debug\net7.0\TeamForge.Repository.Common.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\bin\Debug\net7.0\TeamForge.Model.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\bin\Debug\net7.0\TeamForge.Model.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\bin\Debug\net7.0\TeamForge.Model.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\bin\Debug\net7.0\TeamForge.Model.Common.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\TeamForge.Repository.Common.csproj.AssemblyReference.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\TeamForge.Repository.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\TeamForge.Repository.Common.AssemblyInfoInputs.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\TeamForge.Repository.Common.AssemblyInfo.cs
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\TeamForge.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\TeamForge.Repository.Common.csproj.CopyComplete
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\TeamForge.Repository.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\refint\TeamForge.Repository.Common.dll
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\TeamForge.Repository.Common.pdb
+C:\Users\Ilija\source\repos\TeamForge\TeamForge.Repository.Common\obj\Debug\net7.0\ref\TeamForge.Repository.Common.dll

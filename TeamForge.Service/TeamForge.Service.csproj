@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TeamForge.Repository.Common\TeamForge.Repository.Common.csproj" />
+    <ProjectReference Include="..\TeamForge.Service.Common\TeamForge.Service.Common.csproj" />
+  </ItemGroup>
+
+</Project>
